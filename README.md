@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1066" height="744" alt="Screenshot 2025-12-23 205537" src="https://github.com/user-attachments/assets/4fa102a4-fdc8-4be7-8db2-0e989b6eefcf" />
 
 ### Name:PRADEEPA.B
 ### Register Number:25017224
